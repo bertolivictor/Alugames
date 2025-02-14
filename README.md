@@ -17,8 +17,20 @@ Bem-vindo ao **Alugames**, uma aplicação web interativa que simula um sistema 
 ## 👨🏻‍🏫 Como Usar
 
 1. **Escolha um Jogo**: Na tela inicial, você verá três jogos disponíveis para locação.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/0f41c924-fa98-407d-b8ee-cbbadc18b467" width="1200px" />
+</div>     
+
 2. **Alugar**: Clique no botão "Alugar" para reservar o jogo. A imagem do jogo escurecerá e o botão mudará para "Devolver".
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/6212f8a9-71dd-4426-9126-2f7056898f2b" width="1200px" />
+</div>     
+
 3. **Devolver**: Quando quiser devolver o jogo, clique no botão "Devolver". Um alerta será exibido pedindo confirmação. Se confirmado, o jogo voltará ao estado disponível.
+
+<img src="https://github.com/user-attachments/assets/e879ddc0-d6a2-474b-a0dc-d12f4e6f20bb" width="500px" /> <img src="https://github.com/user-attachments/assets/2d0d4aa8-a650-4d8e-9650-f44272ea0b86" width="500px" />
 
 ---
 
